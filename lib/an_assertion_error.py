@@ -1,3 +1,4 @@
-#!/usr/bin/env python3
+# lib/an_assertion_error.py
 
-assert(1 == 2)
+assert(1 == 1)
+
